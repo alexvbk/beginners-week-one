@@ -1,0 +1,23 @@
+body {
+  background-color: grey ;
+  color: pink ;
+  font-family: arial;
+  border: solid 10px;
+  padding; 50px;
+  }
+  img {
+    background-color: pink ;
+    margin: 25px;
+    padding: 30px;
+}
+img {
+  height: 50vh;
+  max-height: 50vw;
+}
+
+.a {
+  color: red;
+}
+#b {
+  color: blue;
+}
